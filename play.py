@@ -18,5 +18,6 @@ for name in filenames:
 
 for frame in frames:
     print(str(frame))
-    time.sleep(0.029)
+    #tweak this sett
+    time.sleep(0.04167)
     os.system('clear')
